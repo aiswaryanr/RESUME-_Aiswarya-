@@ -1,0 +1,10 @@
+.photo{
+    border-radius: 50%;
+}
+
+.about-emp{
+    display:flex;
+}
+.about-p{
+    float:right;
+}
